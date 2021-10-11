@@ -1,7 +1,7 @@
 # Lottery app
 
 ## Used Technologies:
-XCode, Swift
+Swift
 
 ## Description:
 The mobile application is an individual project created in the XCode program on the Swift programming language for devices with the IOS operating system. The application consists of two pages. The first page has two buttons and a screen. One button generates a set of unique random numbers from 1 to 68 for lottery purposes, the other button clears the screen. By navigating to the second page of the app user can see information about the student who made the mobile application.
